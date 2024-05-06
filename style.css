@@ -22,7 +22,7 @@ body {
 
 @keyframes slider {
     0% {
-        background-image: url(./OIP\ \(1\).jpeg);
+        background-image: url(./OIP\ \(6\).jpeg);
     }
 
     25% {
@@ -30,16 +30,16 @@ body {
     }
 
     50% {
-        background-image: url(./OIP\ \(3\).jpeg);
+        background-image: url(./OIP\ \(8\).jpeg);
 
     }
 
     75% {
-        background-image: url(./OIP\ \(4\).jpeg);
+        background-image: url(./OIP\ \(7\).jpeg);
     }
 
     100% {
-        background-image: url(./OIP\ \(5\).jpeg);
+        background-image: url(./OIP\ \(9\).jpeg);
     }
 
 }
