@@ -16,7 +16,7 @@ body {
     height: 100%;
     object-fit: cover;
     z-index: -1;
-    animation: slider infinite none normal 10s;
+    animation: slider infinite backwards alternate-reverse 10s;
 
 }
 
@@ -83,11 +83,7 @@ body {
     height: 100%; */
 }
 
-/* .container2 {
-    height: 25%;
-    width: 40%;
-    border: 2px solid rgb(6, 177, 91);
-} */
+
 .container3 {
     display: flex;
     justify-content: center;
@@ -118,11 +114,6 @@ h1 {
     animation-direction: normal;
     animation-play-state: running;
 }
-
-/* .div {
-    height: 10px;
-    width: 200px;
-} */
 
 @keyframes runing {
 
@@ -176,25 +167,3 @@ h1 {
     justify-content: center;
     align-items: center;
 }
-
-
-/* 
-.container5 {
-    width: 70%;
-    height: 100px;
-    border: 2px solid red;
-    font-size: 50px;
-    color: white;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    border-radius: 40px;
-    background-color: rgb(0, 0, 0, 0.5);
-
-}
-
-h2 {
-    font-weight: bold;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 40px;
-} */
