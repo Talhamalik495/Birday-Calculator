@@ -104,13 +104,13 @@ body {
 }
 
 h1 {
-    height: 100px;
+
     font-size: 33px;
     color: chartreuse;
     font-weight: bold;
     overflow: hidden;
     width: 0%;
-    border-right: 2px solid black;
+    border-right: 2px solid white;
     animation-name: runing;
     animation-duration: 8s;
     animation-timing-function: ease-in-out;
@@ -131,7 +131,7 @@ h1 {
     }
 
     70% {
-        width: 27%;
+        width: 44%;
     }
 
 }
